@@ -1,0 +1,6 @@
+De forma totalmente independente do primeiro trackball, Douglas Engelbart criou o primeiro mecanismo de entrada de dados baseado em uma caixinha que se movia pela mesa em 1962. Por sua aparência, Engelbart deu o nome "mouse" à sua criação.
+
+O mouse foi inventado no Stanford Research Institute (SRI), que ficou com a patente, entretanto a patente venceu antes que os mouses fossem popularizados nos computadores pessoais. O SRI estava pesquisando junto com a NASA instrumentos para realizar determinadas atividades no computador, como apontar para um objeto que surgisse numa posição aleatória da tela. Objetos como a caneta de luz não se popularizaram pois não eram ergonômicas o suficiente. 
+
+Esse mouse nem possuia rollerball no seu interior, apenas dois discos ortogonais que giravam em função da fricção com a superfície de mesa. Os primeiros dispositivos com rollerball surgiram pela Telefunken a partir de 1968. Atualmente os mouses não utilizam mais rollerball, mas sim luz para medir o movimento do aparato. Além disso, uma das principais características do mouse foi removida: o fio, que foi o que deu origem ao nome "mouse".
+
